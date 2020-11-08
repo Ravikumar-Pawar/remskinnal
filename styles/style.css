@@ -661,3 +661,32 @@ div#aside p span a {
 		left: -400%;
 	}
 }
+
+
+
+.frontPage {
+  padding: 10px;
+  text-align: center;
+  color: rgb(210, 223, 39);
+  font-size: 15px;
+  font-style: normal;
+}
+
+.frontPageul {
+  background-color: aqua;
+
+}
+
+.iconDetails {
+ float:left; 
+ border-radius: 50px;
+ 
+ } 
+ 
+ .container2 {
+   width:100%;
+   height:auto;
+   padding:1%;
+ }
+ 
+ 
